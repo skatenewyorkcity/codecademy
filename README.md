@@ -1,3 +1,3 @@
 # codecademy
-codecademy exercises
+codecademy exercises.
 
