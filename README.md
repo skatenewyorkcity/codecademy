@@ -1,2 +1,2 @@
 # codecademy
-Worked out exercises from freeCodeCamp
+Worked out exercises from codecademy
